@@ -7,6 +7,17 @@ The set of files and IPython notebooks published in this repository served as th
 
 The goal was to explore the possibilities of performing binary detection of COVID-19 from chest X-ray images using state-of-the-art image preprocessing and deep learning techniques.
 
+If you find this research useful, you can cite it using:
+```
+@thesis{chodounsky_covid_detection,
+    title={Detection of COVID-19 in X-ray images using Neural Networks},
+    author={Dominik Chodounský},
+    school= {Czech Technical University in Prague, Faculty of Information Technology},
+    year={2021},
+    type={Bachelor's Thesis},
+}
+```
+
 ---
 
 ### Directory structure
